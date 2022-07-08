@@ -37,6 +37,6 @@
  ##
   
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=germanofleite&repo=HackthonUp)](https://github.com/GermanoFLeite/HackthonUp)
- 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=germanofleite&repo=HackthonUp)](https://github.com/GermanoFLeite/HackthonUp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=germanofleite&repo=DevFoods)](https://github.com/GermanoFLeite/DevFoods)
 
