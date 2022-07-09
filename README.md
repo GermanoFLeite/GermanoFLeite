@@ -1,14 +1,16 @@
 ## Olá!!! Eu sou Germano Leite
 
-- 🔭 Hoje atuo como full-stack
-- 🌱 Estudando NodeJs e React 
-- 📫 contate-me no email: carlos.fl2508@gmail.com
-- 😄 Pronouns: Ele/Dele
+
+    - 🔭 Hoje atuo como full-stack
+    - 🌱 Estudando NodeJs e React 
+    - 📫 contate-me no email: carlos.fl2508@gmail.com
+    - 😄 Pronouns: Ele/Dele
+
 
 <div align="center" style="display: inline_block" padding="20em">
   <a href="https://github.com/GermanoFLeite">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=germanofleite&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>    
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanofleite&langs_count=7&layout=compact&theme=tokyonight"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=germanofleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=2000400&custom_title=Stat's My Git"/>    
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanofleite&langs_count=7&layout=compact&theme=dracula&card_width=300&custom_title=Projects Languages"/>
 </div>
 
 <div style="display: inline_block" padding="20em"><br>
@@ -31,12 +33,11 @@
   <a href="https://www.linkedin.com/in/germanoferreiradev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/germanofleite/germanofleite/blob/output/github-contribution-grid-snake.svg)
-  
+    
 </div>
   
- ##
-  
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=germanofleite&repo=HackthonUp)](https://github.com/GermanoFLeite/HackthonUp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=germanofleite&repo=DevFoods)](https://github.com/GermanoFLeite/DevFoods)
+    
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=germanofleite&repo=HackthonUp&&theme=dracula)](https://github.com/GermanoFLeite/HackthonUp)
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=germanofleite&repo=DevFoods&&theme=dracula)](https://github.com/GermanoFLeite/DevFoods)
