@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Germano Leite
 
-    - 🔭 Hoje atuo como full-stack
-    - 🌱 Estudando NodeJs e React 
+    - 🔭 Hoje atuo como Desenvolvedor Backend e tenho uma quedinha por Data Analytics
+    - 🌱 Estudando Python e NodeJs 
     - 📫 contate-me no email: carlos.fl2508@gmail.com
     - 😄 Pronouns: Ele/Dele
 
