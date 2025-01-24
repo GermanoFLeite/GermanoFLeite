@@ -2,7 +2,7 @@
 
     - 🔭 Hoje atuo como Desenvolvedor Backend e tenho uma quedinha por Data Analytics
     - 🌱 Estudando Python e NodeJs 
-    - 📫 contate-me no email: carlos.fl2508@gmail.com
+    - 📫 contate-me no email: carlosgeferreira@gmail.com
     - 😄 Pronouns: Ele/Dele
 
 
